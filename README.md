@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Fa1zan141
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning web Dev Mern Stack
-- 💞️ I’m looking to collaborate on Bigger Companies
+- 👋 Hi, I’m Muhammad Faizan
+- Working as a Associate Software Engineer 
 - 📫 How to reach me On my linkindin account: https://www.linkedin.com/in/muhamad-faizan-199813218/
   
 <!---
